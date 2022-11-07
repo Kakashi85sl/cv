@@ -1,0 +1,58 @@
+ body {
+     background-color: #233142;
+ }
+
+ hr {
+     border-color: #455D7A;
+     width: 10%;
+     align-content: center;
+     border-style: none;
+     border-top-style: dotted;
+     border-width: 10px;
+
+ }
+
+ a:hover {
+     color: #233142;
+     background-color: #F95959;
+ }
+
+ h1,
+ h2,
+ h3,
+ h4 {
+     color: #FACF5A;
+ }
+li {
+    color: #F95959;
+}
+
+ p {
+     color: #F95959;
+ }
+
+ table,
+ td,
+ th,
+ tr {
+     color: #F95959;
+     width: auto
+ }
+
+ a {
+     color: coral;
+ }
+
+ .profile {
+     border-radius: 100%;
+
+ }
+
+ .profile:hover {
+     background-color: blueviolet;
+     border-radius: 10%;
+
+     filter: none;
+     -webkit-filter: grayscale(1000);
+
+ }
